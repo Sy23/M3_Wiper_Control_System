@@ -15,5 +15,5 @@
 ## LOW-LEVEL REQUIREMENTS
 | ID |Description|Status|
 |----|-----------|------|
-|LL1||Push Button|Implemented|
+|LL1|Push Button|Implemented|
 |LL2|LED's Working|Implemented|

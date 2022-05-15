@@ -68,7 +68,7 @@ for(j=0;j<2000000;j++){};
 GPIOD_ODR &= ~(1<<15);
 }
    }
-continue;
+
 
 
 

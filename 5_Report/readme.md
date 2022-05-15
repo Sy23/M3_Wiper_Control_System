@@ -110,7 +110,7 @@ Ignition Key Position at Lock: The Red LED is OFF if the user button is pressed 
 - High Transaction Cost
 - No Focus on Private Sector
 
-### OPPRONUTIES
+### OPPORTUNITIES 
 - Emerging New Markets
 - Technological Development
 

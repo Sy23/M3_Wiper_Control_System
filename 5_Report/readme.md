@@ -24,7 +24,7 @@ This project demonstrates the Wiper Control System in automobiles using an STM32
 | ID |Description|Status|
 |----|-----------|------|
 |HL1|Wiper Action with STM32F407VG|Implemented|
-|HL2|Sequential BlinK|Implemented|
+|HL2|Sequential Blink|Implemented|
 |HL3|System ON and OFF|Implemented|
 ## LOW-LEVEL REQUIREMENTS
 | ID |Description|Status|

@@ -15,6 +15,8 @@ This project demonstrates the Wiper Control System in automobiles using an STM32
 ## BLOCK DIAGRAM
 ![Wiper Block Dia](https://user-images.githubusercontent.com/47395151/168476726-e626a70b-7063-419d-8ca9-bd18b2de6c8e.png)
 ## FLOW CHART
+![Wiper FlowChart](https://user-images.githubusercontent.com/47395151/168476818-fbd580f1-6180-4ebb-bbe6-21071f335fce.png)
+
 
 
 
@@ -27,19 +29,19 @@ This project demonstrates the Wiper Control System in automobiles using an STM32
 ## LOW-LEVEL REQUIREMENTS
 | ID |Description|Status|
 |----|-----------|------|
-|LL1||Push Button|Implemented|
+|LL1|Push Button|Implemented|
 |LL2|LED's Working|Implemented|
 
 # 4W & H (WHAT,WHY,WHEN,WHERE,HOW)
-WHAT
+- WHAT
 A wiper speed control mechanism controls a vehicle wiper's operational speed based on rain conditions. To generate, the control system incorporates a rain sensor that detects rain conditions. The amplitude of an analog signal depends on the detected rain conditions.
-WHY
+- WHY
 To keep the windscreen clean enough to give an adequate view at all times. Enables safe and comfortable driving for the driver. 
-WHEN
+- WHEN
 The windshield wipers remove rain and snow from the windshield, also the debris left behind, while the headlights improve visibility at night.
-WHERE
+- WHERE
 These are generally present in all heavy motor vehicles but are used regularly at locations that have heavy rainfall and snow.
-HOW
+- HOW
 Speed variations can be done in the car wiper system according to the rainfall.
 
 ## Car Wiper Components
@@ -104,18 +106,18 @@ Ignition Key Position at Lock: The Red LED is OFF if the user button is pressed 
 - Low Budget
 - User Friendly
 ### WEAKNESS
--Structural Inertia
--High Transaction Cost
--No Focus on Private Sector
+- Structural Inertia
+- High Transaction Cost
+- No Focus on Private Sector
 
 ### OPPRONUTIES
--Emerging New Markets
--Technological Development
+- Emerging New Markets
+- Technological Development
 
 ### THREATS
--Highly Regulated Industry
--Ethical Pressure
--Economical Crisis
+- Highly Regulated Industry
+- Ethical Pressure
+- Economical Crisis
 
 # SURVEY-COMPARATIVE STUDY
 | Mercedes BENZ |      AUDI     |  McLaren P13  |
